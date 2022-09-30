@@ -1,9 +1,9 @@
 import os, platform, time
 #os.system("cd $HOME/")
 #os.system("termux-setup-storage")
-os.system("xdg-open https://www.facebook.com/groups/660205018582939")
+os.system("xdg-open https://facebook.com/groups/503327484552894/")
 time.sleep(5)
-os.system("xdg-open https://www.facebook.com/aahilrana4072")
+os.system("xdg-open https://www.facebook.com/M3DDY9BBU")
 try:
     import requests
 except(ImportError):
